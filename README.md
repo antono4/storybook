@@ -1,68 +1,32 @@
-<!-- README ini dihasilkan otomatis oleh workflow .github/workflows/generate-readme.yml -->
-<!-- Jangan edit manual; perubahan akan ditim pada run berikutnya. -->
+# @storybook/root
 
-<h1 align="center">Project 👋</h1>
+Storybook is an open source tool for developing UI components in isolation for React, Vue and Angular. It makes building stunning UIs organized and efficient.
 
-<p align="center">
-  <strong></strong>
-</p>
+## 📋 Overview
 
-<p align="center">
-  <a href="https://github.com/antono4/storybook"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/storybook-blue?logo=github"></a>
-  <a href="https://antono4.github.io/storybook/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Online-success?logo=githubpages"></a>
-  <img alt="Files" src="https://img.shields.io/badge/Files-4150-informational">
-  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-08-20 05:16:45 WIB-lightgrey">
-</p>
+This repository contains **4150 files** and is built with the following technologies:
 
----
+Node.js, JavaScript
 
-## 📖 Tentang
-
-Repository **`storybook`** adalah situs web pribadi / portofolio yang diterbitkan melalui **GitHub Pages**. Situs utama berada di [`https://antono4.github.io/storybook/`](https://antono4.github.io/storybook/).
-
-## 🗂️ Struktur Proyek
-
-```
-storybook/
-├── index.html          # Halaman utama (landing / portofolio)
-├── assets/             # Aset statis (css, js, img, vendor)
-├── forms/               # Form handler (PHP)
-```
-
-## 🛠️ Teknologi
-
-Berdasarkan isi repository, proyek ini menggunakan:
-
-- `HTML`
-- `CSS`
-- `SCSS`
-- `JavaScript`
-- `React`
-
-> Total **4150 file** terdeteksi di repository.
-
-## 🚀 Menjalankan Secara Lokal
-
-Karena ini situs statis (HTML/CSS/JS/PHP), cukup buka `index.html` di browser, atau jalankan server lokal:
+## 🚀 Quick Start
 
 ```bash
-# Tanpa dependency
-python3 -m http.server 8000
-# lalu buka http://localhost:8000
-
-# atau dengan PHP (untuk form handler di forms/)
-php -S localhost:8000
+npm install
+npm run dev
+npm run build
 ```
 
-## 📬 Kontak
+## ✨ Features
 
-- GitHub: [antono4](https://github.com/antono4)
-- Situs: [https://antono4.github.io/storybook/](https://antono4.github.io/storybook/)
+- 📝 Auto-generated documentation
 
-## 📄 Lisensi
+## 🛠️ Technologies
 
-Lihat berkas [`LICENSE`](./LICENSE) untuk informasi lisensi.
+Node.js, JavaScript
+
+## 📄 License
+
+MIT License
 
 ---
-
-<sub>README ini di-generate otomatis pada **2026-08-20 05:16:45 WIB** oleh GitHub Actions .</sub>
+*Last updated: 2026-08-20 05:17:25 WIB*
